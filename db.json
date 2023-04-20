@@ -3,6 +3,9 @@
         "Bean": {
             "U": "",
             "EV": [
+                "adj_complete_registration",
+                "adj_purchase1",
+                "adj_purchase1_value",
                 "deposit",
                 "depositSubmit",
                 "deposit-success",
@@ -18,6 +21,9 @@
                 "withdraw"
             ],
             "ID": [
+                "bp2a34",
+                "ocgxsg",
+                "xul5yk",
                 "jyney4",
                 "t77o0c",
                 "wg2bp4",
